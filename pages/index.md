@@ -4,7 +4,6 @@ Our new website is currently compiling. Please come back later.
 
 ## Dates
 
-* 01.06.2013
 * 08.06.2013
 * 15.06.2013
 * 22.06.2013
