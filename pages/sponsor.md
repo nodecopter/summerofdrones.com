@@ -10,9 +10,9 @@ September 2013 to take place in various cities across North America and Europe.
 Each event will have up to 45 developers get together for a full day of
 programming flying robots with JavaScript or other languages.
 
-The individual events will be organized by community members, and one event
-will take place every Saturday in North America and Europe each. This should
-allow for over 1500 developers to attend.
+The individual events will be organized by local community members, and one
+event will take place every Saturday in North America and Europe each. This
+should allow for over 1500 developers to attend.
 
 ## About
 
@@ -96,6 +96,6 @@ Also included:
 
 ## Get in touch
 
-If you are interested in one of our sponsorship packages, or would like to
-discuss a customized package, please contact us at:
-[sponsor@nodecopter.com](mailto:sponsor@nodecopter.com).
+To sign up for a sponsorship slot, contact us at
+[sponsor@nodecopter.com](mailto:sponsor@nodecopter.com) or call +49 151
+14967823.
