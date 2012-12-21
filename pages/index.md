@@ -8,7 +8,7 @@ Our new website is still compiling, but here is some initial information.
 
 ## What?
 
-The summer of drones is an epic series of up to 34
+The "Summer of Drones" is an epic series of up to 34
 [nodecopter](http://nodecopter.com/) events for over 1500 developers to
 take place in North America and Europe from June - September 2013.
 

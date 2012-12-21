@@ -18,7 +18,9 @@ Additionally you should add an extra ~15% to your budget for overhead:
 * Extra drinks for visitors in the evening
 * etc.
 
-If you want a quick estimate, check our [example budget](#example).
+You can find an [example budget calculation](#example) below.
+
+<strong>Important:</strong> Please understand that the spirit of the "Summer of Drones" demands that your event is not-for-profit. Please spend any money that you raise directly on the event. If you have excess money consider investing into sponsor benefits, venue atmosphere (lighting etc.) and/or better food.
 
 <h3 id="venue"><a href="#venue">Venue</a></h3>
 
