@@ -51,7 +51,7 @@ of drones website, ordered based on level selected. The sponsor may also
 provide a company description for the sponsor section of the website including
 logo and text description (limited to 150 words).
 
-### Main sponsor - 25k EUR (Limit: 1)
+### Main sponsor - 25k USD (Limit: 1)
 
 This unique package will feature you as the main sponsor of the summer of
 drones. You will receive premier placement on the website, all materials,
@@ -62,7 +62,7 @@ Also included:
 * 9 tickets to events of your choice (3 tickets per event maximum)
 * Free standing banner at all events (provided by you)
 
-### Drone Sponsor - 15k EUR (Limit 4)
+### Drone Sponsor - 15k USD (Limit 4)
 
 Full credit for sponsoring one set of 20 drones. This includes additional
 batteries, chargers as well as all repair parts.
@@ -75,7 +75,7 @@ Also included:
 * 6 tickets to events of your choice (3 tickets per event maximum)
 * Free standing banner at all events (provided by you)
 
-### Regional Sponsor - 7k EUR (Limit 9)
+### Regional Sponsor - 7k USD (Limit 9)
 
 Credit for sponsoring all events in one region, selected on a first come first
 served basis:
