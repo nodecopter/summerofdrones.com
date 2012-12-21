@@ -72,7 +72,6 @@ Also included:
 
 * 6 tickets to events of your choice (3 tickets per event maximum)
 * Free standing banner at all events (provided by you)
-* Pick up to 3 coder dojos that should receive a drone
 
 ### Regional Sponsor - 7k EUR (Limit 9)
 
