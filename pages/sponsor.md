@@ -32,8 +32,8 @@ buying a large amount of drones and sharing them between the events.
 The primary benefit from these events is education. Developers who are usually
 involved in the front- or backend aspects of web development are given the
 chance to learn about robotics. This turns out to be a fun way to discover new
-algorithms and techniques that are suprisingly related to the design of
-distributed systems.
+algorithms and techniques that can be suprisingly related to the challenges
+faced in modern web applications.
 
 Additionally the events are also great networking opportunities.
 
