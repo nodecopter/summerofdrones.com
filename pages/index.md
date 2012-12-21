@@ -20,10 +20,10 @@ take place in North America and Europe from June - September 2013.
 ## How?
 
 The nodecopter [core team](http://nodecopter.com/core) team is reaching out to
-sponsors to buy ~60 [drones](http://ardrone2.parrot.com/) and repair parts to be
+sponsors to buy ~80 [drones](http://ardrone2.parrot.com/) and repair parts to be
 shipped from event to event in North America and Europe.
 
-Each continent will have its own set of ~30 drones, so there will be 2 events
+Each continent will have 2 sets of 20 drones each. We aim for having 2 events
 every Saturday!
 
 ## Bring an event to your City
@@ -42,7 +42,7 @@ so you should be able to pull off an event easily.
 
 The only thing you need to promise is to allow for enough time on the day after
 the event (Sunday) to pack/repair the drones so you can ship them to the next
-event on Monday.
+event on Monday. Your set of of 20 drones will be used at the event two weeks later - this allows for enough time for our shipping partner to ship the drones across the continent.
 
 ## Dates
 
@@ -77,11 +77,10 @@ the summer with us - what could go wrong?
 You should aim to have at least 30 people at your event in order to participate.
 
 Attendees are encouraged to work in groups of 3, so you could theoretically
-have up to 90 people. That being said, we would encourage events to stay below
-60 attendees as this greatly helps to simplify organizing, finding a venue,
+have up to 60 people since you get one set of 20 drones. That being said, we would encourage events to stay below 60 attendees as this greatly helps to simplify organizing, finding a venue,
 reducing wifi interference, allowing everybody to show their work, etc.
 
-In our experience there is a sweet spot at ~45 attendees / 15 teams. This also allows for enough
+In our experience there is a sweet spot at ~45 attendees / 15 teams. This also allows for some
 spare drones.
 
 ### I have never organized an event, can I do this?
