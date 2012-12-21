@@ -4,140 +4,95 @@ this.title = 'Sponsor The Summer of Drones';
 %>
 # Sponsor The Summer of Drones
 
-Thank you for your interest in sponsoring the summer of drones. This document
-outlines the plans for the project, as well as the available sponsorship
-opportunities.
+The summer of drones is a series of up to 34 events scheduled for June -
+September 2013 to take place in various cities across North America and Europe.
 
-## Overview
+Each event will have up to 45 developers get together for a full day of
+programming flying robots with JavaScript or other languages.
 
-The summer of drones is a series of events scheduled for June - September 2013
-to take place in North America and Europe.
+The individual events will be organized by community members, and one event
+will take place every Saturday in North America and Europe each. This should
+allow for over 1500 developers to attend.
 
-Each event will have up to 60 developers get together for a full day of
-programming flying robots with JavaScript (or other languages).
+## About
 
-The individual events will be organized by community members, and judging from
-the initial interest we should be able to schedule one event every weekend in
-North America and Europe each. This would allow for up to 30 events total
-attended by almost 2000 developers.
-
-## Motivation
-
-On October 5th, 2012 we organized an event in Berlin called
-[NodeCopter](http://nodecopter.com/). The event was incredibly successful, and
-thanks to being pre-event of [JSConf.eu](http://2012.jsconf.eu/), attended by
-a very international audience.
+On October 5th, 2012 [we](http://nodecopter.com/core) organized an event in
+Berlin called [NodeCopter](http://nodecopter.com/). The event was incredibly
+successful, and thanks to being pre-event of
+[JSConf.eu](http://2012.jsconf.eu/), attended by a very international audience.
 
 After the event many attendees and followers on the internet contacted us about
 bringing similar events to their cities, which resulted in additional events
 that took place in Dublin, San Francisco, Seatle and Brighton.
 
 However, organizing these individual events is very in-efficient and costly, so
-we created the Summer of Drones to reduce the costs for individual events from
-$10.000 to $1.000 and to enable a large amount of events.
+we created the Summer of Drones to reduce the costs for individual events by
+buying a large amount of drones and sharing them between the events.
 
 The primary benefit from these events is education. Developers who are usually
 involved in the front- or backend aspects of web development are given the
-chance to learn about robotics, which is a fun way to discover new
+chance to learn about robotics. This turns out to be a fun way to discover new
 algorithms and techniques that are suprisingly related to the design of
 distributed systems.
+
+Additionally the events are also great networking opportunities.
 
 As part of the summer of drones, we are extending our educational mission to
 the next generation of programmers. This is done by donating all purchased drones
 and equipment to [Coder Dojos](http://coderdojo.com/) around the world after
 the project ends in September.
 
-Additionally, any remaining budget will be donated to the [Hello
-World foundation](http://hwf.io/), which is a new organization dedicated to
-support the technical education of children around the world.
+## Sponsorship Opportunities
 
-## Budget
+All sponsorship opportunities come with logo and link  placement on the summer
+of drones website, ordered based on level selected. The sponsor may also
+provide a company description for the sponsor section of the website including
+logo and text description (limited to 150 words).
 
-All sponsorship money will be used to cover the following costs:
+### Main sponsor - 25k EUR (Limit: 1)
 
-* Purchase of 60 [Parrot AR.Drones 2.0](http://ardrone2.parrot.com/) (30 for
-  each continent)
-* Purchase of sufficient repair components
-* Costs for printing promotional materials including T-Shirts, Banners, etc.
-* Costs to support local events with costs for shipping, venues, etc.
-  (individual events will try to raise most of this money themselves, but we
-  will help in case of problems)
-* Dealing with unexpected problems
+This unique package will feature you as the main sponsor of the summer of
+drones. You will receive premier placement on the website, all materials,
+and special mention in all interviews and at all events.
 
-In order to finance the project, we aim to raise a budget of **~30.000 EUR**.
+Also included:
 
-Everybody involved is a volunteer, and the ticket prices will be as affordable
-as possible (30-40 EUR).
+* 9 tickets to events of your choice (3 tickets per event maximum)
+* Free standing banner at all events (provided by you)
 
-Any additionaly money will be used to improve the events, and any remaining
-budget will be donated to the [Hello World foundation](http://hwf.io/).
+### Drone Sponsor - 15k EUR (Limit 4)
 
+Full credit for sponsoring one set of 20 drones. This includes additional
+batteries, chargers as well as all repair parts.
 
-## Sponsor Packages & Benefits
+This sponsorship also gives you full credit for the donation of the drones to
+[20 coder dojos](http://coderdojo.com/) after the summer.
 
-### Main Global Sponsor
+Also included:
 
-* Highlighted before any other sponsor
-* Sponsor all North Americans and European Events
-* Reach up to 2000 developers attending the events
-* Best logo placement on main website
-* Best logo placement in all newsletters
-* Special highlight at the beginning of every event
-* Best placement for banner at every event
-* First mention in all media interviews
-* Special mention on twitter
-* 10 tickets to events of your choice (3 tickets per event maximum)
-* Best opportunity for global recruiting and marketing
+* 6 tickets to events of your choice (3 tickets per event maximum)
+* Free standing banner at all events (provided by you)
+* Pick up to 3 coder dojos that should receive a drone
 
-This package is available for **15.000 EUR** and there is exactly **1 slot**.
+### Regional Sponsor - 7k EUR (Limit 9)
 
-### Regular Global Sponsor
+Credit for sponsoring all events in one regions, selected on a first come first
+served basis:
 
-* Sponsor all North Americans and European Events
-* Reach up to 2000 developers attending the events
-* Logo on main website
-* Logo in all newsletters
-* Highlight at the beginning of every event
-* Banner at every event
-* Mention in all media interviews
-* Mention on twitter
-* 7 tickets to events of your choice (3 tickets per event maximum)
-* Perfect for global recruiting and marketing
+* Canada
+* Western United States
+* Midwestern United States
+* Northeastern United States
+* Southern United States
+* Northern Europe
+* Western Europe
+* Eastern Europe
+* Southern Europe
 
-This package is available for **10.000 EUR** and there is a maximum of **3
-slots** for this sponsorship package.
+Also included:
 
-### North America or Europe Sponsor
-
-* Choose your continent: North America **or** Europe
-* Reach up to 1000 developers attending the events
-* Logo on main website
-* Logo in all newsletters
-* Highlight at the beginning of every event on your continent
-* Banner at every event on your continent
-* Mention in all media interviews on your continent
-* Mention on twitter
-* 5 tickets to events of your choice (3 tickets per event maximum)
-* Perfect for regional recruiting and marketing
-
-This package is available for **5.000 EUR** and there is a maximum of **3
-slots** per continent.
-
-### Local Sponsor
-
-* Sponsor an individual event in your city
-* Reach up to 60 developers attending the events
-* Logo on event website
-* Logo in event newsletters
-* Highlight at the beginning of the event
-* Banner at the event
-* Mention in all media interviews at the event
-* Mention on twitter
-* 3 tickets to the event
-* Perfect for local recruiting and marketing
-
-This package is available for **1.000 EUR** and the money goes directly to the
-local organizers to pay for drone shipping, the venue and additional expenses.
+* 3 tickets to events of your choice
+* Free standing banner at 3 events of your choice (provided by you)
 
 ## Get in touch
 
