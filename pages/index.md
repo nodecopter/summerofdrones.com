@@ -12,6 +12,8 @@ The summer of drones is an epic series of up to 34
 [nodecopter](http://nodecopter.com/) events for over 1500 developers to
 take place in North America and Europe from June - September 2013.
 
+If you want us to keep you up to date about everything, please leave your email address.
+
 <form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
   <input class="button" type="submit" value="Keep me posted" />
@@ -26,16 +28,16 @@ shipped from event to event in North America and Europe.
 Each continent will have 2 sets of 20 drones each. We aim for having 2 events
 every Saturday!
 
-## Bring an event to your City
+## Bring an event to your city
 
 The best way to make sure there will be an event in your city is to organize it!
 We're going to make it ridiculously easy and cheap. Here is what you need to do:
 
-* Pick a date from the list below
-* E-Mail us at [core@nodecopter.com](core@nodecopter.com) - dates will be assigned
+1. Pick a date from the list below - dates will be assigned
   on a first-come, first-serve basis
-* Find a suitable [venue](http://nodecopter.com/compass/venue)
-* Raise enough money to pay for shipping (~300 USD) + your venue ($0 - $5000)
+2. Fill out our [organizer application form]()
+3. Find a suitable [venue](/compass/venue)
+4. Raise enough money to pay for shipping (~300 USD) + your venue ($0 - $5000)
 
 That's pretty much it. We are working on detailed information for everything,
 so you should be able to pull off an event easily.
