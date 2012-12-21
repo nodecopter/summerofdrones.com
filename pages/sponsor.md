@@ -73,6 +73,7 @@ This sponsorship also gives you full credit for the donation of the drones to
 Also included:
 
 * 6 tickets to events of your choice (3 tickets per event maximum)
+* Your logo on every drone in the set
 * Free standing banner at all events (provided by you)
 
 ### Regional Sponsor - 7k USD (Limit 9)
