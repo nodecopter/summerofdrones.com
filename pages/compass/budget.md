@@ -116,4 +116,8 @@ currency %> (15% overhead) = **<%= (total + overhead) + ' ' + currency %>**
 This is just an example, but **3500 USD - 5000 USD** is a reasonable ball
 bark for most "Summer of Drones" events.
 
-But don't be scared, on the [finacing page](/compass/financing) you will find some advice on how you can pull this off.
+<h3 id="totally-doable"><a href="#totally-doable">This is totally doable</a></h3>
+
+From our experience chances are high that you will get the venue either for free or for a very low fee. After all these events are on Saturdays, so most offices will be closed anyway and office owners in your area might be happy to donate their office to a good cause for one day.
+
+Don't be scared - on the [finacing page](/compass/financing) you will find advice on how you can pull this off.

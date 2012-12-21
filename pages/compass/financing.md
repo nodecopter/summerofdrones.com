@@ -8,18 +8,20 @@ this.title = 'Financing';
 
 <h3 id="finding-sponsors"><a href="#finding-sponsors">Finding sponsors</a></h3>
 
-If you can find enough sponsors to cover all your costs, that would be truly awesome. From our experience it is best to contact local tech companies for this. Many are more than willing to help out with such an awesome event - you just need to contact them.
+If you can find enough sponsors to cover all your costs, that would be truly awesome. From our experience it is best to contact local tech companies for this. Quite often they are more than willing to help out with such an awesome tech event - you just need to contact them.
 
-Most of the time they will even send a few people to the event as well, which in turn helps you get the required amount of attendees.
+They might also send a few people to the event as well, which in turn helps reaching the required amount of attendees.
 
-Unfortunately sponsors do not get to keep the drones after the events this time. Instead we are thinking about donating them to [CoderDojo](http://coderdojo.com) to help raise the next generation of software developers.
+Unfortunately, sponsors do not get to keep the drones after the events this time. Instead we are thinking about donating them to [CoderDojo](http://coderdojo.com) once the "Summer of Drones" is over. There is nothing better than helping to raise the next generation of software developers.
 
-However, you can offer your sponsors different things they get in return - like banners, naming the venue's Wifi connection, sponsoring the food, etc. If you need help finding sponsors, you can always drop us a line at [core@nodecopter.com](core@nodecopter.com).
+However, you can offer different sponsor benefits, like banners, the ability to name the venue's Wifi connection, sponsoring the food, etc. If you need help finding sponsors, you can always drop us a line at [core@nodecopter.com](core@nodecopter.com).
+
+It's a good idea to think hard about what you can offer your sponsors. Make sure to treat them exceptionally well. They are the ones who make your event possible.
 
 
 <h3 id="selling-tickets"><a href="#selling-tickets">Selling tickets</a></h3>
 
-If you can't find enough sponsors to cover all your costs, then that's not a problem at all. You can sell tickets instead. A good ticket price would be between 20 and 30 USD. After all we want to make this less expensive, but more epic for the attendees.
+If you can't find enough sponsors to cover all your costs, don't worry, that's fine. You can sell tickets instead. A good ticket price would be between 20 and 30 USD. We suggest that you do not price your tickets more expensive than 30 USD. After all we want to make this less expensive, and more epic for your attendees.
 
 <%
 var people = 40;
@@ -28,7 +30,7 @@ var currency = 'USD';
 var total = ticketPrice * people;
 %>
 
-With <%= people %> showing up at the event and a ticket price of <%= ticketPrice + ' ' + currency %>, you can raise <%= total + ' ' + currency %>, which should be between 30% and 50% of what you need to raise.
+With <%= people %> people showing up at the event and a ticket price of <%= ticketPrice + ' ' + currency %>, you can raise <%= total + ' ' + currency %>, which should be between 30% and 50% of your budget already.
 
 You are free to sell tickets however you like. We recommend using services like [Eventbrite](http://www.eventbrite.com/) to make selling tickets a breeze and to receive the money upfront.
 
