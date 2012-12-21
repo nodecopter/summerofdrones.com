@@ -32,13 +32,13 @@ The best way to make sure there will be an event in your city is to organize it!
 We're going to make it ridiculously easy and cheap. Here is what you need to do:
 
 * Pick a date from the list below
-* E-Mail us [core@nodecopter.com](core@nodecopter.com) - dates will be assigned
+* E-Mail us at [core@nodecopter.com](core@nodecopter.com) - dates will be assigned
   on a first-come, first-serve basis
 * Find a suitable [venue](http://nodecopter.com/compass/venue)
 * Raise enough money to pay for shipping (~300 USD) + your venue ($0 - $5000)
 
 That's pretty much it. We are working on detailed information for everything,
-so you should be able to pull of an event very easily.
+so you should be able to pull off an event easily.
 
 The only thing you need to promise is to allow for enough time on the day after
 the event (Sunday) to pack/repair the drones so you can ship them to the next
@@ -81,16 +81,17 @@ have up to 90 people. That being said, we would encourage events to stay below
 60 attendees as this greatly helps to simplify organizing, finding a venue,
 reducing wifi interference, allowing everybody to show their work, etc.
 
-In our experience there is a sweet spot at ~45 attendees / 15 teams.
+In our experience there is a sweet spot at ~45 attendees / 15 teams. This also allows for enough
+spare drones.
 
 ### I have never organized an event, can I do this?
 
-Yes, but we will pick organizers based on their community track record. So if
+Yes, but we might pick organizers based on their community track record. So if
 you have not done much in your developer community yet, we may ask you to get
 somebody a little more experienced on board to make sure things will work
 smoothly.
 
-### You mentioned repairing the drones, is that hard?
+### You mentioned repairing the drones - is that hard?
 
 No! It is super simple, and there are [detailed
 videos](http://blog.parrot.com/2012/06/01/ar-drone-2-0-repair-videos/) showing
@@ -100,7 +101,7 @@ easily fixed with some special tape.
 
 ### Can we use programming languages other than JavaScript?
 
-Yes! We welcome developers from all languages and plattforms. Most languages
+Yes! We welcome developers from all languages and platforms. Most languages
 already have AR Drone libraries available, so use whatever you like!
 
 That being said, this project was born in the JavaScript community, so you
