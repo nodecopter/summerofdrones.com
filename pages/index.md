@@ -44,7 +44,7 @@ so you should be able to pull off an event easily.
 
 The only thing you need to promise is to allow for enough time on the day after
 the event (Sunday) to pack/repair the drones so you can ship them to the next
-event on Monday. Your set of of 20 drones will be used at the event two weeks later - this allows for enough time for our shipping partner to ship the drones across the continent.
+event on Monday. Your set of 20 drones will be used at the event two weeks later - this gives you enough time to ship the drones across the continent.
 
 ## Dates
 
