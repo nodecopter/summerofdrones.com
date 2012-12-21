@@ -14,6 +14,8 @@ The individual events will be organized by local community members, and one
 event will take place every Saturday in North America and Europe each. This
 should allow for over 1500 developers to attend.
 
+The summer of drones is unique event, unlike anything before it, and whether your goal is brand exposure, recruiting, or something else, we have a sponsorship opportunity for you.
+
 ## About
 
 On October 5th, 2012 [we](http://nodecopter.com/core) organized an event in
@@ -75,7 +77,7 @@ Also included:
 
 ### Regional Sponsor - 7k EUR (Limit 9)
 
-Credit for sponsoring all events in one regions, selected on a first come first
+Credit for sponsoring all events in one region, selected on a first come first
 served basis:
 
 * Canada
