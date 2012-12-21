@@ -8,9 +8,9 @@ Our new website is still compiling, but here is some initial information.
 
 ## What?
 
-The summer of drones is an epic series of ~30
+The summer of drones is an epic series of up to 34
 [nodecopter](http://nodecopter.com/) events for over 1500 developers to
-take place from June - September 2013.
+take place in North America and Europe from June - September 2013.
 
 <form action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj" />
@@ -20,7 +20,7 @@ take place from June - September 2013.
 ## How?
 
 The nodecopter [core team](http://nodecopter.com/core) team is reaching out to
-sponsors buy ~60 [drones](http://ardrone2.parrot.com/) and repair parts to be
+sponsors to buy ~60 [drones](http://ardrone2.parrot.com/) and repair parts to be
 shipped from event to event in North America and Europe.
 
 Each continent will have its own set of ~30 drones, so there will be 2 events
@@ -72,6 +72,24 @@ A group of out-of-space robots has asked us to organize these events for them.
 They promised that they are coming in peace and that they just want to spend
 the summer with us - what could go wrong?
 
+### How many people should attend an event?
+
+You should aim to have at least 30 people at your event in order to participate.
+
+Attendees are encouraged to work in groups of 3, so you could theoretically
+have up to 90 people. That being said, we would encourage events to stay below
+60 attendees as this greatly helps to simplify organizing, finding a venue,
+reducing wifi interference, allowing everybody to show their work, etc.
+
+In our experience there is a sweet spot at ~45 attendees / 15 teams.
+
+### I have never organized an event, can I do this?
+
+Yes, but we will pick organizers based on their community track record. So if
+you have not done much in your developer community yet, we may ask you to get
+somebody a little more experienced on board to make sure things will work
+smoothly.
+
 ### You mentioned repairing the drones, is that hard?
 
 No! It is super simple, and there are [detailed
@@ -84,6 +102,9 @@ easily fixed with some special tape.
 
 Yes! We welcome developers from all languages and plattforms. Most languages
 already have AR Drone libraries available, so use whatever you like!
+
+That being said, this project was born in the JavaScript community, so you
+should expect a lot of JavaScript developers.
 
 ### Can we use our own quad copters / other robots?
 
