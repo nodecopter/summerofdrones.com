@@ -25,7 +25,7 @@ successful, and thanks to being pre-event of
 
 After the event many attendees and followers on the internet contacted us about
 bringing similar events to their cities, which resulted in additional events
-that took place in Dublin, San Francisco, Seatle and Brighton.
+that took place in Dublin, San Francisco, Seattle and Brighton.
 
 However, organizing these individual events is very in-efficient and costly, so
 we created the Summer of Drones to reduce the costs for individual events by
@@ -34,7 +34,7 @@ buying a large amount of drones and sharing them between the events.
 The primary benefit from these events is education. Developers who are usually
 involved in the front- or backend aspects of web development are given the
 chance to learn about robotics. This turns out to be a fun way to discover new
-algorithms and techniques that can be suprisingly related to the challenges
+algorithms and techniques that can be surprisingly related to the challenges
 faced in modern web applications.
 
 Additionally the events are also great networking opportunities.
