@@ -102,6 +102,9 @@ Also included:
 * 3 tickets to events of your choice
 * Free standing banner at 3 events of your choice (provided by you)
 
+The free standing banner may be placed at any 3 events, even if those happen
+to be outside your sponsored region.
+
 ## Get in touch
 
 To sign up for a sponsorship slot, contact us at
