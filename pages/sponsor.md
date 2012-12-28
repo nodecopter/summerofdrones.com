@@ -59,8 +59,14 @@ and special mention in all interviews and at all events.
 
 Also included:
 
+* Special Advertisement Opportunity (see below)
 * 9 tickets to events of your choice (3 tickets per event maximum)
 * Free standing banner at all events (provided by you)
+
+The Special Advertisement Opportunity can be negotiated depending on your
+needs. For example, you could have a 60 second video clip played at the
+beginning of every event or give out a product / material to every attendee at
+every event.
 
 ### Drone Sponsor - 15k USD (Limit 4)
 
