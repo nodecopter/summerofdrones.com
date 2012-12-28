@@ -44,7 +44,8 @@ so you should be able to pull off an event easily.
 
 The only thing you need to promise is to allow for enough time on the day after
 the event (Sunday) to pack/repair the drones so you can ship them to the next
-event on Monday. Your set of 20 drones will be used at the event two weeks later - this gives you enough time to ship the drones across the continent.
+event on Monday. Your set of 20 drones will be used at the event two weeks
+later - this gives you enough time to ship the drones across the continent.
 
 ## Dates
 
@@ -79,18 +80,15 @@ the summer with us - what could go wrong?
 You should aim to have at least 30 people at your event in order to participate.
 
 Attendees are encouraged to work in groups of 3, so you could theoretically
-have up to 60 people since you get one set of 20 drones. That being said, we would encourage events to stay below 60 attendees as this greatly helps to simplify organizing, finding a venue,
-reducing wifi interference, allowing everybody to show their work, etc.
-
-In our experience there is a sweet spot at ~45 attendees / 15 teams. This also allows for some
-spare drones.
+have up to 60 people since you get one set of 20 drones. That being said, we
+think 45 people is the perfect number, as this leaves you with 5 backup drones,
+less hassle to organize, less wifi interference, more venue choices, etc..
 
 ### I have never organized an event, can I do this?
 
 Yes, but we might pick organizers based on their community track record. So if
 you have not done much in your developer community yet, we may ask you to get
-somebody a little more experienced on board to make sure things will work
-smoothly.
+somebody a little more experienced to help you.
 
 ### You mentioned repairing the drones - is that hard?
 
