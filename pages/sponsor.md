@@ -65,8 +65,7 @@ Also included:
 
 The Special Advertisement Opportunity can be negotiated depending on your
 needs. For example, you could have a 60 second video clip played at the
-beginning of every event or give out a product / material to every attendee at
-every event.
+beginning of every event or give out a product / material to every attendee.
 
 ### Drone Sponsor - 15k USD (Limit 4)
 
