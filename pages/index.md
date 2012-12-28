@@ -80,12 +80,6 @@ else, we have a sponsorship opportunity for you.
 
 ## FAQ
 
-### This is crazy, why are you doing this?
-
-A group of out-of-space robots has asked us to organize these events for them.
-They promised that they are coming in peace and that they just want to spend
-the summer with us - what could go wrong?
-
 ### How many people should attend an event?
 
 You should aim to have at least 30 people at your event in order to participate.
@@ -97,9 +91,7 @@ less hassle to organize, less wifi interference, more venue choices, etc..
 
 ### I have never organized an event, can I do this?
 
-Yes, but we might pick organizers based on their community track record. So if
-you have not done much in your developer community yet, we may ask you to get
-somebody a little more experienced to help you.
+Yes, just get in touch!
 
 ### You mentioned repairing the drones - is that hard?
 
