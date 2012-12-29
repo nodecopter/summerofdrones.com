@@ -47,6 +47,9 @@ the event (Sunday) to pack/repair the drones so you can ship them to the next
 event on Monday. Your set of 20 drones will be used at the event two weeks
 later - this gives you enough time to ship the drones across the continent.
 
+If you have any questions - please reach out to us:
+[sod@nodecopter.com](mailto:sod@nodecopter.com)
+
 ## Dates
 
 * 08.06.2013
