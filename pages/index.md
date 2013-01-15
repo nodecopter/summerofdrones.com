@@ -114,6 +114,6 @@ should expect a lot of JavaScript developers.
 
 ### Can we use our own quad copters / other robots?
 
-Yes! As long as your robots can behave and don't endager the other participants,
+Yes! As long as your robots can behave and don't endanger the other participants,
 you're free to hack on any robots you like. It would be especially awesome to
 see different robots collaborate.
