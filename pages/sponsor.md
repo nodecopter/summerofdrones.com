@@ -1,7 +1,4 @@
-<%
-this.layout = 'default';
-this.title = 'Sponsor The Summer of Drones';
-%>
+<% this.layout = 'default'; this.title = 'Sponsor The Summer of Drones'; %>
 # Sponsor The Summer of Drones
 
 The summer of drones is a series of up to 34 events scheduled for June -
@@ -14,7 +11,9 @@ The individual events will be organized by local community members, and one
 event will take place every Saturday in North America and Europe each. This
 should allow for over 1500 developers to attend.
 
-The summer of drones is unique event, unlike anything before it, and whether your goal is brand exposure, recruiting, or something else, we have a sponsorship opportunity for you.
+The summer of drones is unique event, unlike anything before it, and whether
+your goal is brand exposure, recruiting, or something else, we have a
+sponsorship opportunity for you.
 
 ## About
 
@@ -25,7 +24,7 @@ successful, and thanks to being pre-event of
 
 After the event many attendees and followers on the internet contacted us about
 bringing similar events to their cities, which resulted in additional events
-that took place in Dublin, San Francisco, Seattle and Brighton.
+that took place in Dublin, San Francisco, Seattle, Brighton and Zurich.
 
 However, organizing these individual events is very in-efficient and costly, so
 we created the Summer of Drones to reduce the costs for individual events by
@@ -40,9 +39,19 @@ faced in modern web applications.
 Additionally the events are also great networking opportunities.
 
 As part of the summer of drones, we are extending our educational mission to
-the next generation of programmers. This is done by donating all purchased drones
-and equipment to [Coder Dojos](http://coderdojo.com/) around the world after
-the project ends in September.
+the next generation of programmers. This is done by donating the purchased
+drones and equipment to non-profit programming education organizations* after
+the summer. For example:
+
+* [Coder Dojos](http://coderdojo.com/)
+* [Code Club](http://www.codeclub.org.uk/)
+* [Girl Develop It](http://www.girldevelopit.com/)
+* [Hacker School](https://www.hackerschool.com/)
+* [Open Tech School](http://www.opentechschool.org/)
+
+\* We will consider applications from any organization providing non-profit
+programming education and distribute the drones on a first come, first serve
+basis.
 
 ## Sponsorship Opportunities
 
@@ -73,7 +82,8 @@ Full credit for sponsoring one set of 20 drones. This includes additional
 batteries, chargers as well as all repair parts.
 
 This sponsorship also gives you full credit for the donation of the drones to
-[20 coder dojos](http://coderdojo.com/) after the summer.
+the selected non-profit programming education organizations after the summer
+(see above).
 
 Also included:
 
@@ -83,7 +93,7 @@ Also included:
 
 ### Regional Sponsor - 7k USD (Limit 9)
 
-Credit for sponsoring all events in one region, selected on a first come first
+Credit for sponsoring all events in one region, selected on a first come, first
 served basis:
 
 * Canada
@@ -104,8 +114,12 @@ Also included:
 The free standing banner may be placed at any 3 events, even if those happen
 to be outside your sponsored region.
 
+### Local Sponsor
+
+If you are interested in sponsoring a local event directly, please get in touch.
+
 ## Get in touch
 
 To sign up for a sponsorship slot, contact us at
 [sponsor@nodecopter.com](mailto:sponsor@nodecopter.com) or call +49 151
-14967823.
+14967823 (Felix) or +49 160 90659729 (Robin).
