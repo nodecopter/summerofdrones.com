@@ -1,5 +1,5 @@
 markdown: redcarpet
-pygments: true
+pygments: false
 safe: true
 source: .
 lsi: false
