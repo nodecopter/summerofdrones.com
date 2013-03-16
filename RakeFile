@@ -1,0 +1,9 @@
+require "rake"
+require 'fileutils'
+
+desc "Process LESS into CSS."
+task :less do
+  FileUtils.mkdir_p 'css'
+  sh "which lessc"
+  sh "lessc _less/sod.less -x > css/screen.css"
+end
