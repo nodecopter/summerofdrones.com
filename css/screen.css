@@ -607,7 +607,8 @@ hr.big{height:10px;margin-top:10px;border-bottom:1px solid #ddd0c0;}
 .btn{color:#6d3925;font-weight:bold;}
 h2{font-family:'ThirstyRoughReg';}
 h3{font-size:16.8px;line-height:24px;}
-header{height:377px;position:relative;}header h1{text-indent:-9999px;margin-top:0;background:url(../images/logo.png) no-repeat left top;width:424px;height:187px;position:absolute;left:70px;top:60px;}
+header{height:377px;position:relative;}header .logo{margin:0 auto;width:1280px;height:300px;position:relative;}
+header h1{text-indent:-9999px;margin-top:0;background:url(../images/logo.png) no-repeat left top;width:424px;height:187px;position:absolute;left:70px;top:60px;}
 header .intro{position:absolute;background:#cf4f35;padding:15px;border-radius:5px;left:615px;width:550px;top:25px;border:1px solid #ad2d13;color:#f9e2d7;}header .intro a{color:#f9e2d7;font-weight:bold;}
 header form{margin-bottom:0;}
 footer{margin-top:30px;text-align:center;color:#cf4f35;}footer img{margin-bottom:20px;}
