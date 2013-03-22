@@ -34,40 +34,40 @@ later - this gives you enough time to ship the drones across the continent.
 
 <hr class="big" />
 
-## Dates
+## Dates (all in 2013)
 
 <div class="row">
-  <div class="span3">
+  <div class="span2">
     <ul>
-      <li>08.06.2013</li>
-      <li>15.06.2013</li>
-      <li>22.06.2013</li>
-      <li>29.06.2013</li>
-      <li>06.07.2013</li>
+      <li>June 08</li>
+      <li>June 15</li>
+      <li>June 22</li>
+      <li>June 29</li>
     </ul>
   </div>
-  <div class="span3">
+  <div class="span2">
     <ul>
-      <li>13.07.2013</li>
-      <li>20.07.2013</li>
-      <li>27.07.2013</li>
-      <li>03.08.2013</li>
+      <li>July 96</li>
+      <li>July 13</li>
+      <li>July 20</li>
+      <li>July 27</li>
     </ul>
   </div>
-  <div class="span3">
+  <div class="span2">
     <ul>
-      <li>10.08.2013</li>
-      <li>17.08.2013</li>
-      <li>24.08.2013</li>
-      <li>31.08.2013</li>
+      <li>August 03</li>
+      <li>August 10</li>
+      <li>August 17</li>
+      <li>August 24</li>
+      <li>August 31</li>
     </ul>
   </div>
-  <div class="span3">
+  <div class="span2">
     <ul>
-      <li>07.09.2013</li>
-      <li>14.09.2013</li>
-      <li>21.09.2013</li>
-      <li>28.09.2013</li>
+      <li>September 07</li>
+      <li>September 14</li>
+      <li>September 21</li>
+      <li>September 28</li>
     </ul>
   </div>
 </div>
