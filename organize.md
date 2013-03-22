@@ -119,9 +119,10 @@ you're free to hack on any robots you like. It would be especially awesome to
 see different robots collaborate.</p>
   </div>
   <div class="span6">
-    <h3>This is crazy, why are you doing this?</h3>
-    <p>A group of out-of-space robots has asked us to organize these events for them.
-  They promised that they are coming in peace and that they just want to spend
-  the summer with us - what could go wrong?</p>
+    <h3>Can I organize an event outside Europe / North America?</h3>
+    <p>Yes, but unfortunately we are probably not going to be able to provide
+    the drones for you. But this just means that you'll need to spend a little
+    more work on finding a few sponsors, and we'd certainly try to help you
+    with that!</p>
   </div>
 </div>
