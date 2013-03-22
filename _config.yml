@@ -1,0 +1,7 @@
+# These excludes should include the path, but I can't get jekyll to also match
+# the path.
+exclude:
+  - bootstrap
+  - footer.less
+  - header.less
+  - layout.less
