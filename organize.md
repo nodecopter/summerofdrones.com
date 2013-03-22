@@ -82,8 +82,8 @@ Here are some guidelines that help organize **Summer of Drones** events.
 
 Please keep in mind that you do not have to buy any drones. We will organize them for you.
 
-* [Venue](http://nodecopter.com/compass/venue): What makes a good nodecopter venue
-* [Setting up the venue](http://nodecopter.com/compass/setup_the_venue): How to set up the venue prio to the event
+* [Venue](http://nodecopter.com/compass/venue): What makes a good Nodecopter venue
+* [Setting up the venue](http://nodecopter.com/compass/setup_the_venue): How to set up the venue prior to the event
 * [Schedule](http://nodecopter.com/compass/schedule): How to run the event day itself
 
 
