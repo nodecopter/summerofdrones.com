@@ -58,3 +58,14 @@ than ever before, and we want you there as a sponsor!
 
 [Contact us for details!](mailto:sponsor@nodecopter.com)
 
+<h2 id="blog">Blog</h2>
+
+<section class="content">
+  <ul class="listing">
+    {% for post in site.posts %}
+<li>
+  <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+    {% endfor %}
+  </ul>
+</section>
