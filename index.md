@@ -27,7 +27,7 @@ A lot more Nodecopter videos can be found with this [YouTube Search](http://www.
 <h2 id="attend">Attend an Event</h2>
 
 You know JavaScript, Ruby, Python, Java, Objective C, C++, C#, Perl, Go, Clojure,
-or Scale? Heck, even Bash will do.
+or Scala? Heck, even Bash will do.
 
 As long as your language of choice can do networking, you should consider
 attending an event close to you. There is also no need for previous robotics
