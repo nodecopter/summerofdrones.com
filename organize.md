@@ -21,7 +21,7 @@ We're going to make it ridiculously easy and cheap. Here is what you need to do:
 1. Pick a date from the list below - dates will be assigned
   on a first-come, first-serve basis
 2. Fill out our [organizer application form](https://docs.google.com/spreadsheet/viewform?formkey=dFB6a3FrdGlhb0pFUFExc0lhOTVtQUE6MQ)
-3. Find a suitable [venue](/compass/venue)
+3. Find a suitable venue. Check the NodeCopter [venue guidelines](http://nodecopter.com/compass/venue) for tips.
 4. Raise enough money to pay for shipping (~300 USD) + your venue ($0 - $5000)
 
 That's pretty much it. We are working on detailed information for everything,
