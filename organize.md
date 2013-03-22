@@ -47,7 +47,7 @@ later - this gives you enough time to ship the drones across the continent.
   </div>
   <div class="span2">
     <ul>
-      <li>July 96</li>
+      <li>July 06</li>
       <li>July 13</li>
       <li>July 20</li>
       <li>July 27</li>
