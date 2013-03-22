@@ -9,9 +9,10 @@ Clone the repo, then install the following gems:
 ```
 gem install jekyll
 gem install jekyll-less
+gem install therubyracer
 ```
 
-You can now run the site locally on port 400 using:
+You can now run the site locally on port 4000 using:
 
 ```bash
 jekyll --auto --server
