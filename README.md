@@ -14,7 +14,7 @@ gem install jekyll-less
 You can now run the site locally on port 400 using:
 
 ```bash
-$ jekyll server
+jekyll server
 ```
 
 ## Deployment
