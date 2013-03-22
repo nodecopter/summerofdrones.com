@@ -116,8 +116,8 @@ somebody a little more experienced to help you.</p>
   </div>
   <div class="span6">
     <h3>You mentioned repairing the drones - is that hard?</h3>
-    <p>No! It is super simple, and there are [detailed
-videos](http://blog.parrot.com/2012/06/01/ar-drone-2-0-repair-videos/) showing
+    <p>No! It is super simple, and there are <a href="http://blog.parrot.com/2012/06/01/ar-drone-2-0-repair-videos/">detailed
+    videos</a> showing
 you the steps. Every drone set will also include a generous amount of repair
 parts, but generally speaking only the indoor hull breaks often, and that is
 easily fixed with some special tape.</p>
