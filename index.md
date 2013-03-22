@@ -3,7 +3,7 @@ layout: default
 title: The Summer of Drones
 ---
 
-## The Summer of Drones
+<h2 id="about">The Summer of Drones</h2>
 
 The Summer of Drones is an epic series of up to 34
 [Nodecopter](http://nodecopter.com/) community events to take place in North
@@ -17,12 +17,12 @@ stuff while having fun with flying robots.
 Have a look at some videos from the first Nodecopter event that was held in
 Berlin on Oct 5th, 2012 to get an idea for what to expect:
 
-<iframe width="400" height="225" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0"></iframe>
-<iframe width="400" height="225" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0"></iframe>
+<iframe width="345" height="194" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0"></iframe>
+<iframe width="345" height="194" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0"></iframe>
 
 A lot more Nodecopter videos can be found with this [YouTube Search](http://www.youtube.com/results?search_query=nodecopter).
 
-## Attend an Event
+<h2 id="attend">Attend an Event</h2>
 
 You know JavaScript, Ruby, Python, Java, Objective C, C++, C#, Perl, Go, Clojure,
 or Scale? Heck, even Bash will do.
@@ -39,7 +39,7 @@ to get notified:
   <input class="btn" type="submit" value="Keep me posted">
 </form>
 
-## Organize an Event
+<h2 id="organize">Organize an Event</h2>
 
 The Summer of Drones is a community project, this means anybody who is
 passionate about flying robots and their local community can bring an event to
@@ -50,7 +50,7 @@ We'll take care of the drones, you take care of the rest.
 Sounds interesting? Head over to the [Organizer Page](/organize.html) to find
 out more!
 
-## Sponsor
+<h2 id="sponsor">Sponsor</h2>
 
 The summer of drones will see some of the best and most passionate web and
 mobile developers come together to push the boundaries of their tools further
