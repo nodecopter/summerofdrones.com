@@ -74,19 +74,6 @@ later - this gives you enough time to ship the drones across the continent.
 
 <hr class="big" />
 
-## Sponsors
-
-The summer of drones will see some of the best and most passionate web
-developers come together to push the boundaries of their tools further than
-ever before.
-
-Whether your goal is brand exposure, recruiting, product launch, or something
-else, we have a sponsorship opportunity for you.
-
-[Contact us for details!](mailto:sponsor@nodecopter.com)
-
-<hr class="big" />
-
 ## FAQ
 
 <div class="row">
