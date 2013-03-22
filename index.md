@@ -22,6 +22,8 @@ Berlin on Oct 5th, 2012 to get an idea for what to expect:
 
 A lot more Nodecopter videos can be found with this [YouTube Search](http://www.youtube.com/results?search_query=nodecopter).
 
+<hr class="big" />
+
 <h2 id="attend">Attend an Event</h2>
 
 You know JavaScript, Ruby, Python, Java, Objective C, C++, C#, Perl, Go, Clojure,
@@ -39,6 +41,8 @@ to get notified:
   <input class="btn" type="submit" value="Keep me posted">
 </form>
 
+<hr class="big" />
+
 <h2 id="organize">Organize an Event</h2>
 
 The Summer of Drones is a community project, this means anybody who is
@@ -49,6 +53,8 @@ We'll take care of the drones, you take care of the rest.
 
 Sounds interesting? Head over to the [Organizer Page](/organize.html) to find
 out more!
+
+<hr class="big" />
 
 <h2 id="sponsor">Sponsor</h2>
 
