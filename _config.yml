@@ -5,3 +5,4 @@ exclude:
   - footer.less
   - header.less
   - layout.less
+markdown: redcarpet

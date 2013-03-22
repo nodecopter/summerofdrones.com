@@ -1,7 +1,19 @@
 {% include header.html %}
 
 <section class='container'>
-  {{ content }}
+  <div class="row">
+    <div class="span3">
+      <ul class="nav nav-list affix-top">
+        <li><a href="#">About</a></li>
+        <li><a href="#">Attend an Event</a></li>
+        <li><a href="#">Organize an Event</a></li>
+        <li><a href="#">Sponsor</a></li>
+      </ul>
+    </div>
+    <div class="span9">
+      {{ content }}
+    </div>
+  </div>
 </section>
 
 {% include footer.html %}
