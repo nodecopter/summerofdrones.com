@@ -22,7 +22,9 @@ We're going to make it ridiculously easy and cheap. Here is what you need to do:
   on a first-come, first-serve basis
 2. Fill out our [organizer application form](https://docs.google.com/spreadsheet/viewform?formkey=dFB6a3FrdGlhb0pFUFExc0lhOTVtQUE6MQ)
 3. Find a suitable venue. Check the NodeCopter [venue guidelines](http://nodecopter.com/compass/venue) for tips.
-4. Raise enough money to pay for shipping (~300 USD) + your venue ($0 - $5000)
+4. Raise enough money to pay for
+  * shipping (~300 USD)
+  * your venue including some food & drinks ($0 - $5000)
 
 That's pretty much it. We are working on detailed information for everything,
 so you should be able to pull off an event easily.
@@ -71,6 +73,17 @@ later - this gives you enough time to ship the drones across the continent.
     </ul>
   </div>
 </div>
+
+<hr class="big" />
+
+## What you need to know
+
+Here are some guidelines that help organize **Summer of Drones** events.
+
+Please keep in mind that you do not have to buy any drones. We will organize them for you.
+
+* [Venue](http://nodecopter.com/compass/venue): What makes a good nodecopter venue
+* [Schedule](http://nodecopter.com/compass/schedule): How to run the event day itself
 
 <hr class="big" />
 
