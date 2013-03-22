@@ -7,14 +7,14 @@ The [summerofdrones.com](summerofdrones.com ) website.
 Clone the repo, then install the following gems:
 
 ```
-gem install jekyll -v 1.0.0.beta2
+gem install jekyll
 gem install jekyll-less
 ```
 
 You can now run the site locally on port 400 using:
 
 ```bash
-jekyll server
+jekyll --auto --server
 ```
 
 ## Deployment
