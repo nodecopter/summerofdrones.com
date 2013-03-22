@@ -20,6 +20,8 @@ jekyll --auto --server
 
 ## Deployment
 
-The site is deployed to s3. The credentials are in the credentials repo.
+The site is deployed with
+[jekyll-s3](https://github.com/laurilehmijoki/jekyll-s3). The credentials are
+in the credentials repo.
 
 Going forward, I'll also setup a CI server to deploy every commit to master.
