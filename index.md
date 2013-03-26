@@ -56,6 +56,13 @@ out more!
 
 <hr class="big" />
 
+<h2 id="press">Press</h2>
+
+You can download our press kit [here](/downloads/press.zip), or contact us at <a
+href="mailto:core@nodecopter.com">core@nodecopter.com</a>.
+
+<hr class="big" />
+
 <h2 id="sponsor">Sponsor</h2>
 
 The summer of drones will see some of the best and most passionate web and
