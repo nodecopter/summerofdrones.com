@@ -38,41 +38,119 @@ later - this gives you enough time to ship the drones across the continent.
 
 ## Dates (all in 2013)
 
-<div class="row">
-  <div class="span2">
-    <ul>
-      <li>June 08</li>
-      <li>June 15</li>
-      <li>June 22</li>
-      <li>June 29</li>
-    </ul>
-  </div>
-  <div class="span2">
-    <ul>
-      <li>July 06</li>
-      <li>July 13</li>
-      <li>July 20</li>
-      <li>July 27</li>
-    </ul>
-  </div>
-  <div class="span2">
-    <ul>
-      <li>August 03</li>
-      <li>August 10</li>
-      <li>August 17</li>
-      <li>August 24</li>
-      <li>August 31</li>
-    </ul>
-  </div>
-  <div class="span2">
-    <ul>
-      <li>September 07</li>
-      <li>September 14</li>
-      <li>September 21</li>
-      <li>September 28</li>
-    </ul>
-  </div>
-</div>
+<table class="schedule table table-condensed">
+  <tr>
+    <th>When</th><th>Where</th><th>Organizers</th>
+  </tr>
+  <tr>
+    <td>June 08</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>June 08</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>June 15</td><td>North America</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>June 15</td><td>Bergen, Norway</td><td>Raymond Julin</td>
+  </tr>
+  <tr class="taken">
+    <td>June 18/19</td><td>Cologone, Germany</td><td>Frederik Hemberger &amp; Felix Geisendörfer</td>
+  </tr>
+  <tr>
+    <td>June 22</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>June 22</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>June 29</td><td>North America</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>June 29</td><td>Prague, Czech Republic</td><td>Ladislav Prskavec</td>
+  </tr>
+  <tr>
+    <td>July 06</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>July 06</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>July 13</td><td>Savannah, GA</td><td>Will Dent</td>
+  </tr>
+  <tr>
+    <td>July 13</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>July 20</td><td>Los Angeles, CA</td><td>Jason Campbe &amp; John Wiseman</td>
+  </tr>
+  <tr>
+    <td>July 20</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>July 27</td><td>North America</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>July 27</td><td>Kiev, Ukraine</td><td>Andrey Listochkin</td>
+  </tr>
+  <tr>
+    <td>August 03</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>August 03</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>August 10</td><td>Charleston, SC</td><td>Tom Wilson</td>
+  </tr>
+  <tr>
+    <td>August 10</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>August 17</td><td>Minneapolis, MN</td><td>James M. Greene</td>
+  </tr>
+  <tr>
+    <td>August 17</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>August 24</td><td>Toronto, Canada</td><td>Marc Pelland &amp; Joshua Kelly</td>
+  </tr>
+  <tr>
+    <td>August 24</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>August 31</td><td>North America</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>August 31</td><td>Copenhagen, Denmark</td><td>Sebastian Buettrich</td>
+  </tr>
+  <tr class="taken">
+    <td>September 07</td><td>Cincinnati, OH</td><td>Carin Meier</td>
+  </tr>
+  <tr>
+    <td>September 07</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 14</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 14</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 21</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 21</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 28</td><td>North America</td><td>-</td>
+  </tr>
+  <tr>
+    <td>September 28</td><td>Europe</td><td>-</td>
+  </tr>
+  <tr class="taken">
+    <td>October 4/5</td><td>Lisbon, Portugal</td><td>Samuel Gordalina</td>
+  </tr>
+</table>
 
 <hr class="big" />
 
