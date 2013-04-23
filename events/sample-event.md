@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sample Event
+title: August 13, 2013 - Berlin, Germany
 ---
 
 # August 13, 2013 - Berlin, Germany
