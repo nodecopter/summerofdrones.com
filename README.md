@@ -6,10 +6,10 @@ The [summerofdrones.com](summerofdrones.com ) website.
 
 Clone the repo, then install the following gems:
 
-```
-gem install jekyll
-gem install jekyll-less
-gem install therubyracer
+``` sh
+gem install bundler
+cd summerofdrones.com
+bundle install
 ```
 
 You can now run the site locally on port 4000 using:
