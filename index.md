@@ -33,8 +33,8 @@ As long as your language of choice can do networking, you should consider
 attending an event close to you. There is also no need for previous robotics
 experience as long as you are passionate and curious!
 
-We are going to announce the first dates and cities very soon, so make sure
-to get notified:
+The first dates and cities are announced in the event <a href="#schedule">schedule</a>. Make sure
+to get notified when more cities are announced:
 
 <form class="form-search" action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
   <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj">
@@ -53,6 +53,12 @@ We'll take care of the drones, you take care of the rest.
 
 Sounds interesting? Head over to the [Organizer Page](/organize.html) to find
 out more!
+
+<hr class="big" />
+
+<h2 id="schedule">Schedule</h2>
+
+{% include schedule.html %}
 
 <hr class="big" />
 
