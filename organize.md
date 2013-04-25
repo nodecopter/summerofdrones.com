@@ -87,11 +87,14 @@ later - this gives you enough time to ship the drones across the continent.
   <tr>
     <td>July 20</td><td>Europe</td><td>-</td>
   </tr>
-  <tr>
-    <td>July 27</td><td>North America</td><td>-</td>
+  <tr class="taken">
+    <td>July 27</td><td>Detroit, MI <small>(half a drone set)</small></td><td>Brian Mulloy</td>
   </tr>
   <tr class="taken">
     <td>July 27</td><td>Kiev, Ukraine</td><td>Andrey Listochkin</td>
+  </tr>
+  <tr class="taken">
+    <td>July 28</td><td>Richland, WA <small>(half a drone set)</small></td><td>Adam Brault</td>
   </tr>
   <tr>
     <td>August 03</td><td>North America</td><td>-</td>
