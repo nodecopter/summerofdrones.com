@@ -5,75 +5,26 @@ title: The Summer of Drones
 
 <h2 id="about">The Summer of Drones</h2>
 
-The Summer of Drones is an epic series of up to 34
-[Nodecopter](http://nodecopter.com/) community events to take place in North
-America and Europe from June to September 2013.
+Summer of Drones was a crazy good idea. Unfortunately a tad
+too crazy and due to time & sponsorship problems we have
+to stop it before it really begins. We are really incredibly sorry and heartbroken
+that we could not deliver on this idea and we did not take this decision lightly, but
+the situation we faced wouldn't have allowed us to run Summer of Drones without
+putting too much risk on everyone.
 
-Our goal is to highlight the non-military potential of
-[UAVs](http://en.wikipedia.org/wiki/Unmanned_aerial_vehicle), bring together
-people from different programming communities, and learn some interesting new
-stuff while having fun with flying robots.
+This means that Summer of Drones will not happen this year and this site will go inactive.
 
-Have a look at some videos from the first Nodecopter event that was held in
-Berlin on Oct 5th, 2012 to get an idea for what to expect:
+<h3 id="alive_and_kicking">NodeCopter is alive &amp; kicking!</h3>
 
-<iframe width="345" height="194" src="http://www.youtube.com/embed/gucpgJEJ5b4" frameborder="0"></iframe>
-<iframe width="345" height="194" src="http://www.youtube.com/embed/t13jGeBAWrA" frameborder="0"></iframe>
+Don't worry, NodeCopter is <strong>not dead</strong>. There will be a lot of
+[NodeCopter](http://nodecopter.com) events all over the world thanks to our
+amazing organizers. And you can help bring a NodeCopter event to your city.
+Just head over to [NodeCopter.com](http://nodecopter.com), get excited, start hacking
+right away and bring NodeCopter to your city eventually.
 
-A lot more Nodecopter videos can be found with this [YouTube Search](http://www.youtube.com/results?search_query=nodecopter).
+All the resources are open source and as time allows we'll continue to work on it.
+Your contributions are welcome too.
 
-<hr class="big" />
+<strong>Thank you for all your excitment &amp; support — see you at a NodeCopter event somehwere</strong>,
 
-<h2 id="attend">Attend an Event</h2>
-
-You know JavaScript, Ruby, Python, Java, Objective C, C++, C#, Perl, Go, Clojure,
-or Scala? Heck, even Bash will do.
-
-As long as your language of choice can do networking, you should consider
-attending an event close to you. There is also no need for previous robotics
-experience as long as you are passionate and curious!
-
-The first dates and cities are announced in the event <a href="#schedule">schedule</a>. Make sure
-to get notified when more cities are announced:
-
-<form class="form-search" action="http://nodecopter.createsend.com/t/j/s/irhtuj/" method="post" id="subForm">
-  <input class="email" placeholder="email@example.com" type="text" name="cm-irhtuj-irhtuj" id="irhtuj-irhtuj">
-  <input class="btn" type="submit" value="Keep me posted">
-</form>
-
-<hr class="big" />
-
-<h2 id="organize">Organize an Event</h2>
-
-The Summer of Drones is a community project, this means anybody who is
-passionate about flying robots and their local community can bring an event to
-their city!
-
-We'll take care of the drones, you take care of the rest.
-
-Sounds interesting? Head over to the [Organizer Page](/organize.html) to find
-out more!
-
-<hr class="big" />
-
-<h2 id="schedule">Schedule</h2>
-
-{% include schedule.html %}
-
-<hr class="big" />
-
-<h2 id="press">Press</h2>
-
-You can download our press kit [here](/downloads/press.zip), or contact us at <a
-href="mailto:core@nodecopter.com">core@nodecopter.com</a>.
-
-<hr class="big" />
-
-<h2 id="sponsor">Sponsor</h2>
-
-The summer of drones will see some of the best and most passionate web and
-mobile developers come together to push the boundaries of their tools further
-than ever before, and we want you there as a sponsor!
-
-[Contact us for details!](mailto:sponsor@nodecopter.com)
-
+\- The Core Team (Felix, Robin, Thorsten, Tim)
